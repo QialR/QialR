@@ -2,7 +2,8 @@
 <h3 align="center">web developer, AI and UI/UX students who don't want to be disturbed 😎</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=QialR&label=Profile%20views&color=0e75b6&style=flat" alt="QialR" /> </p>
+<p align="left"> 
+ <img src="[https://komarev.com/ghpvc/?username=QialR&label=Profile%20views&color=0e75b6&style=flat](https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr")" alt="QialR" /> </p>
 
 - 🌱 I’m currently learning **python, JS, UI/UX**
 
