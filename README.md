@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rifkial Iqwal</h1>
 <h3 align="center">web developer, AI and UI/UX students who don't want to be disturbed 😎</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=QialR&label=Profile%20views&color=0e75b6&style=flat" alt="QialR" /> </p>
