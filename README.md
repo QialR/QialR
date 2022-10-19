@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rifkialikhwal@gmail.com**
 
-- ⚔️ aphorisms  **don't disturb, if you don't want to be disturbed**
+- ⚔️  **don't disturb, if you don't want to be disturbed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
